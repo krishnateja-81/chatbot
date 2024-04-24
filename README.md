@@ -22,3 +22,5 @@ This repository contains a Streamlit web application that integrates OpenAI's GP
 - Feel free to customize the avatars, styling, and additional features of the chat interface to suit your needs.
 
 This project provides a simple yet powerful example of integrating conversational AI capabilities into web applications using Streamlit and OpenAI's GPT model.
+
+![Streamlit Chatbot](https://github.com/krishnateja-81/chatbot/blob/master/chatbot.png)
