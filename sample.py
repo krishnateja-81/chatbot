@@ -1,7 +1,7 @@
 import openai 
 import streamlit as st
 
-st.set_page_config(page_title="KH-CHATBOT", page_icon='screenshot (2).png')
+st.set_page_config(page_title="CHATBOT", page_icon='screenshot (2).png')
 openai.api_key = ""
 st.title("CHATGPT INTEGRATED CHATBOT", anchor="str")
 
